@@ -1,9 +1,9 @@
 ## MARKDOWN SYNTAX
 
-* ## [Headings](/Headings.md/)
+* ## [Headings](/Rules/Headings.md/)
 
-* ## [Paragraphs](/Paragraphs.md/)
+* ## [Paragraphs](/Rules/Paragraphs.md/)
 
-* ## [Emphasis](/Emphasis.md/)
+* ## [Emphasis](/Rules/Emphasis.md/)
 
 ### [_GitHub repository for this project_](https://github.com/Nickeld28/Learning_Markdown)
