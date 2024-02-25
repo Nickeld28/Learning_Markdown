@@ -8,7 +8,7 @@ The type of text will depend on what special characters are used and how many th
  
 1. Italic text is highlighted with "*" or "_"
 2. Bold text is highlighted with "**" or "__"
-3. Strikethrough text is highlighted with "~~" \
+3. Strikethrough text is highlighted with "~~"
 
 ### Сombinations of different emphasises are acceptable
 
