@@ -8,4 +8,6 @@
 
 * ## [Comments](/Rules/Comments.md/)
 
+* ## [Horizontal rules](/Rules/Horizontal_rules.md/)
+
 ### [_GitHub repository for this project_](https://github.com/Nickeld28/Learning_Markdown)
