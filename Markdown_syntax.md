@@ -10,4 +10,6 @@
 
 * ## [Horizontal rules](/Rules/Horizontal_rules.md/)
 
+* ## [Blockquotes](/Rules/Blockquotes.md/)
+
 ### [_GitHub repository for this project_](https://github.com/Nickeld28/Learning_Markdown)
