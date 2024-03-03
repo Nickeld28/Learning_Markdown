@@ -16,4 +16,6 @@
 
 * ## [Code](/Rules/Code.md/)
 
+* ## [Escaping characters](/Rules/Escaping_characters.md/)
+
 ### [_GitHub repository for this project_](https://github.com/Nickeld28/Learning_Markdown)
