@@ -18,4 +18,6 @@
 
 * ## [Escaping characters](/Rules/Escaping_characters.md/)
 
+* ## [Links](/Rules/Links.md/)
+
 ### [_GitHub repository for this project_](https://github.com/Nickeld28/Learning_Markdown)
