@@ -1,3 +1,5 @@
+![Markdown logo](/Markdown_logo.png)
+
 ## MARKDOWN SYNTAX
 
 * ## [Headings](/Rules/Headings.md/)
@@ -19,5 +21,7 @@
 * ## [Escaping characters](/Rules/Escaping_characters.md/)
 
 * ## [Links](/Rules/Links.md/)
+
+* ## [Inserting Images](/Rules/Inserting_Images.md)
 
 ### [_GitHub repository for this project_](https://github.com/Nickeld28/Learning_Markdown)
